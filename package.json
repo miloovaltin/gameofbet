@@ -1,0 +1,16 @@
+{
+"name": "gameofbet",
+"theme": "game of bet",
+"version": "1.8.1",
+"description": "game of bet ทางเข้าหลักเว็บไซต์แทงบอลเว็บตรง ระบบออโต้ ให้เครดิตฟรี",
+"keywords": [
+"game of bet",
+"game of bet เครดิตฟรี",
+"game of bet ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/gameofbet",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
